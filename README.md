@@ -21,6 +21,12 @@
 在项目中main.py写了命令行调用,可在PyCharm开发工具的控制台看到debug信息.
 ```
 
+## 项目截图
+![所有文件](https://github.com/oldweiplus/douluodalu_spider/blob/master/img/20190407174005.png?raw=true)
+![章节图片1](https://github.com/oldweiplus/douluodalu_spider/blob/master/img/20190407174043.png?raw=true)
+![章节图片2](https://github.com/oldweiplus/douluodalu_spider/blob/master/img/20190407174121.png?raw=true)
+![爬虫代码](https://github.com/oldweiplus/douluodalu_spider/blob/master/img/20190407174350.png?raw=true)
+
 ### 参考文献
 [scrapy自定义pipeline下载图片/文档](https://blog.csdn.net/cp_123321/article/details/84668344)
 
