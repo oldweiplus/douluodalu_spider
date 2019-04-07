@@ -2,7 +2,7 @@
 import scrapy
 import re
 from douluodalu.items import DouluodaluItem
-from scrapy_splash.request import SplashRequest, SplashFormRequest
+from scrapy_splash.request import SplashRequest
 
 
 class DouluoSpiderSpider(scrapy.Spider):
@@ -10,7 +10,6 @@ class DouluoSpiderSpider(scrapy.Spider):
     name = 'douluo_spider'
     # 允许的域名
     allowed_domains = ['www.manhuatai.com']
-    # allowed_domains = ['www.manhuatai.com', 'https://mhpic.jumanhua.com/']
     # 入口url，扔到调度器
     start_urls = ['https://www.manhuatai.com/douluodalu']
 
