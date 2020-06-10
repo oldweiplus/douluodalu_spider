@@ -9,7 +9,7 @@
 · Windows 10 专业工作站版
 · Python 3.6.8
 · Scrapy 1.6.0
-· Pillow 6.0.0
+· Pillow 6.2.2
 · Docker 2.0.0.3
 · Splash 3.3.1
 
